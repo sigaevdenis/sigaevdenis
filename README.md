@@ -37,3 +37,15 @@
 | [Название второго проекта] | Краткое описание | В процессе |
 
 ---
+
+### 📫 Связаться со мной
+
+- **Telegram**: [@sigaevdenis](https://t.me/sigaevdenis)
+- **Телефон**: +7 (937) 168-66-70
+- **Email**: denissigaevqa@gmail.com
+
+---
+
+<div align="center">
+  <i>Готов влиться в команду и расти как QA Engineer</i>
+</div>
